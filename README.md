@@ -7,10 +7,11 @@ Prueba técnica JAVA
 
 •	El método de intersección crea un tercer conjunto que es la intersección teórica de dos conjuntos existentes (es decir, la aplicación de la función lógica Y sobre los conjuntos y devuelve el valor lógico verdadero o falso).
 
-•	El elemento InsertElement inserta un nuevo elemento entero k en un conjunto (estableciendo a [k] en verdadero).
+•	El elemento insertElement inserta un nuevo elemento entero k en un conjunto (estableciendo a [k] en verdadero).
 
 •	 El método deleteElement elimina el entero m (estableciendo [m] en falso).
 
 
 •	 El método toSetString devuelve una cadena que contiene un conjunto como una lista de números separados por espacios. Incluya solo los elementos que están presentes en el conjunto. Utilice - "para representar un conjunto vacío.
-•	 El método igualTo determina si dos conjuntos son iguales. estructura
+
+•	 El método isEqualTo determina si dos conjuntos son iguales. estructura
